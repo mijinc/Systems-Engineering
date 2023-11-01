@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T13:03:08.669Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="Lihah8an99FW7e-DP6pZ" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T13:05:41.819Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="Aib2n2g83gx5vXcgYgjw" version="22.0.8" type="github">
   <diagram name="Page-1" id="oLvTEM1nEzkZ-Qc8hx-0">
-    <mxGraphModel dx="855" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="641" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,14 +34,14 @@
         <mxCell id="rU_V20zOn_BfO8SZIT1E-17" value="Pumping Station" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1109.5" y="700" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rU_V20zOn_BfO8SZIT1E-18" value="Jockey Pump" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rU_V20zOn_BfO8SZIT1E-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="957" y="750" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="rU_V20zOn_BfO8SZIT1E-19" value="Main Pump" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1107" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="rU_V20zOn_BfO8SZIT1E-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1107" y="750" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="rU_V20zOn_BfO8SZIT1E-20" value="Diesel Pump" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1257" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="rU_V20zOn_BfO8SZIT1E-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1257" y="750" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="rU_V20zOn_BfO8SZIT1E-30" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="197" y="210" width="432.75" height="60" as="geometry" />
@@ -149,11 +149,35 @@
         <mxCell id="rU_V20zOn_BfO8SZIT1E-15" value="Hose Box&amp;nbsp;6" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="608.8636363636364" y="757.9558823529412" width="69.54545454545455" height="34.773529411764706" as="geometry" />
         </mxCell>
-        <mxCell id="rU_V20zOn_BfO8SZIT1E-55" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="967" y="820" width="100" height="40" as="geometry" />
+        <mxCell id="rU_V20zOn_BfO8SZIT1E-55" value="activated" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="967" y="800" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rU_V20zOn_BfO8SZIT1E-56" value="Pressure Gauge &amp;amp; Pressure Switch" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="765" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rU_V20zOn_BfO8SZIT1E-58" value="deactivated" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="967" y="839.09" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rU_V20zOn_BfO8SZIT1E-59" value="activated" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1118.25" y="800" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rU_V20zOn_BfO8SZIT1E-60" value="deactivated" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1118.25" y="839.09" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rU_V20zOn_BfO8SZIT1E-61" value="activated" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1267" y="800" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rU_V20zOn_BfO8SZIT1E-62" value="deactivated" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1267" y="839.09" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rU_V20zOn_BfO8SZIT1E-63" value="Jockey&lt;br&gt;Pump" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="987" y="750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rU_V20zOn_BfO8SZIT1E-64" value="Electrical&lt;br&gt;Pump" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1138.25" y="750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rU_V20zOn_BfO8SZIT1E-65" value="Diesel&lt;br&gt;Pump" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1287" y="750" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
